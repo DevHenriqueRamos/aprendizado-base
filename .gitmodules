@@ -1,0 +1,9 @@
+[submodule "first-java-JDBC"]
+	path = first-java-JDBC
+	url = git@github.com:DevHenriqueRamos/first-java-JDBC.git
+[submodule "jpa-criteria"]
+	path = jpa-criteria
+	url = git@github.com:DevHenriqueRamos/jpa-criteria.git
+[submodule "usando-mais-de-um-db"]
+	path = usando-mais-de-um-db
+	url = git@github.com:DevHenriqueRamos/usando-mais-de-um-db.git
